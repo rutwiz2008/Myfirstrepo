@@ -1,0 +1,12 @@
+I am writing a content related to a Topic: Steps in Problem Solving
+
+Problem solving involves using logical steps to reach a solution.  
+The first step is defining the problem clearly and completely.  
+Next, an algorithm is created to describe the procedure.  
+After that, the logic is implemented in a programming language.  
+The program is then tested with sample inputs and outputs.  
+Errors found must be debugged to achieve correct results.  
+Finally, the solution should be evaluated for efficiency.  
+Effective problem solving helps improve coding and logical skills.  
+This process forms the base for developing AI and ML applications.  
+By practicing regularly, students develop strong computational thinking.
